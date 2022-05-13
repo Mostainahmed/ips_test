@@ -18,4 +18,5 @@ class DatabaseSeeder extends Seeder
             ->count(20)
             ->create();
     }
+
 }
